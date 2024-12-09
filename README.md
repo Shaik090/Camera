@@ -1,0 +1,1 @@
+# miniproject - Camera web application
